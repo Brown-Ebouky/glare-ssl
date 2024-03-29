@@ -7,7 +7,7 @@ GLARE: Global, Local, and Regional Consistency Enforcement in Self-Supervised Le
 
 ### Visualization of semantic segmentation masks
 
-![Semantic segmentation masks](figs/segm_masks_imgs.png)
+![Semantic segmentation masks](figs/semantic_masks.png)
 
 ### Additional results on COCO Object detection
 
